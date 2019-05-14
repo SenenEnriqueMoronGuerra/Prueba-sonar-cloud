@@ -1,0 +1,33 @@
+
+soap_transport_http::setheader!
+bWAPP/soap/nusoap.phpÇ
+ Ç("1*K
+2
+
+nusoap.php"8
+!
+bWAPP/soap/nusoap.phpÊ Ê(
+implicit return*ç
+1!
+bWAPP/soap/nusoap.phpÈ È(*e
+c
+!
+bWAPP/soap/nusoap.phpÉ É()
+%1"__concat*
+set header *
+: *	
+
+$name*
+
+
+$valueSQ
+!
+bWAPP/soap/nusoap.phpÉ É(*
+%2*
+soap_transport_http*
+
+%12debug*
+2:
+$name:
+$valueB
+soap_transport_http

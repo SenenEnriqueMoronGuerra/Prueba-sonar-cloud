@@ -1,0 +1,33 @@
+
+nusoap_client::setheaders+
+bWAPP/soap/class.soapclient.php¼
+ ¼("1*_
+2
+class.soapclient.php"B
++
+bWAPP/soap/class.soapclient.phpÀ À(
+implicit return*á
+1+
+bWAPP/soap/class.soapclient.php½ ½(&jh
++
+bWAPP/soap/class.soapclient.php½ ½(%
+%1*
+nusoap_client*
+"setHeaders headers="2debug_]
++
+bWAPP/soap/class.soapclient.php¾ ¾(-
+%2*
+nusoap_client*
+
+
+$headers2vardump][
++
+bWAPP/soap/class.soapclient.php¾ ¾(.
+%3*
+nusoap_client*
+
+%22appenddebug*
+2:
+
+$headersB
+nusoap_client

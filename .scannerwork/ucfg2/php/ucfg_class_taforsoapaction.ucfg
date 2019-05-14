@@ -1,0 +1,64 @@
+
+#wsdl::getoperationdataforsoapaction%
+bWAPP/soap/class.wsdl.php’
+ ’('"2"4"6"10*¡
+2%
+bWAPP/soap/class.wsdl.php” ”(:l
+j
+%
+bWAPP/soap/class.wsdl.php” ”(9
+$bindingType"__id*+)
+''http://schemas.xmlsoap.org/wsdl/soap/'*
+6
+10*£
+4%
+bWAPP/soap/class.wsdl.php– –(<n
+l
+%
+bWAPP/soap/class.wsdl.php– –(;
+$bindingType"__id*-+
+)'http://schemas.xmlsoap.org/wsdl/soap12/'*
+6
+10*•
+6%
+bWAPP/soap/class.wsdl.php› ›(/]
+[
+%
+bWAPP/soap/class.wsdl.php› ›(
+%1"
+__arrayGet*
+
+	$portData*
+'bindingType'*
+
+6
+8
+10*•
+8%
+bWAPP/soap/class.wsdl.phpž	 ž(-Z
+X
+%
+bWAPP/soap/class.wsdl.phpž	 ž(
+%2"
+__arrayGet*
+	
+$opData*
+'soapAction'*
+6
+8
+9
+10*`
+9%
+bWAPP/soap/class.wsdl.phpŸ	 Ÿ("4
+%
+bWAPP/soap/class.wsdl.phpŸ	 Ÿ(
+	
+$opData*T
+10
+class.wsdl.php"<
+%
+bWAPP/soap/class.wsdl.php¤ ¤(
+implicit return:
+$soapAction:
+$bindingTypeB
+wsdl

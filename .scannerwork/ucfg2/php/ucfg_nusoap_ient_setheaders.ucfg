@@ -1,0 +1,34 @@
+
+nusoap_client::setheaders!
+bWAPP/soap/nusoap.php±<
+ ±<("1*K
+2
+
+nusoap.php"8
+!
+bWAPP/soap/nusoap.phpµ< µ<(
+implicit return*¹
+1!
+bWAPP/soap/nusoap.php²< ²<(&`^
+!
+bWAPP/soap/nusoap.php²< ²<(%
+%1*
+nusoap_client*
+"setHeaders headers="2debugUS
+!
+bWAPP/soap/nusoap.php³< ³<(-
+%2*
+nusoap_client*
+
+
+$headers2vardumpSQ
+!
+bWAPP/soap/nusoap.php³< ³<(.
+%3*
+nusoap_client*
+
+%22appenddebug*
+2:
+
+$headersB
+nusoap_client

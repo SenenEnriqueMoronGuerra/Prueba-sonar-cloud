@@ -1,0 +1,44 @@
+
+nusoap_client::setcurloption!
+bWAPP/soap/nusoap.phpš<
+ š<("1*K
+2
+
+nusoap.php"8
+!
+bWAPP/soap/nusoap.phpž< ž<(
+implicit return*‘
+1!
+bWAPP/soap/nusoap.php›< ›<(7k
+i
+!
+bWAPP/soap/nusoap.php›< ›<(5
+%1"__concat*
+setCurlOption option=*
+
+, value=*
+	
+$optionMK
+!
+bWAPP/soap/nusoap.php›< ›<(6
+%2*
+nusoap_client*
+
+%12debugSQ
+!
+bWAPP/soap/nusoap.phpœ< œ<(+
+%3*
+nusoap_client*
+
+
+$value2vardumpSQ
+!
+bWAPP/soap/nusoap.phpœ< œ<(,
+%4*
+nusoap_client*
+
+%32appenddebug*
+2:	
+$option:
+$valueB
+nusoap_client

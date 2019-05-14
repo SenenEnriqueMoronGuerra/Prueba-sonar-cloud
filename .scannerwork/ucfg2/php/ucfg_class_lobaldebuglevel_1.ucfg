@@ -1,0 +1,110 @@
+
+ nusoap_base::setglobaldebuglevel,
+ bWAPP/soap/class.nusoap_base.phpõ
+ õ("1*a
+2
+class.nusoap_base.php"C
+,
+ bWAPP/soap/class.nusoap_base.php÷ ÷(
+implicit return*›
+1,
+ bWAPP/soap/class.nusoap_base.phpö ö(Ob
+`
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(
+%1"
+__arrayGet*
+
+
+$GLOBALS*
+'_transient'X
+V
+,
+ bWAPP/soap/class.nusoap_base.phpö ö("
+%2"
+__arrayGet*
+
+%1*
+
+'static']
+[
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(1
+%3"
+__arrayGet*
+
+%2*
+'nusoap_base'n
+l
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(E
+%4"
+__arraySet*
+
+%3*
+'globalDebugLevel'*
+
+
+$levelb
+`
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(
+%5"
+__arrayGet*
+
+
+$GLOBALS*
+'_transient'X
+V
+,
+ bWAPP/soap/class.nusoap_base.phpö ö("
+%6"
+__arrayGet*
+
+%5*
+
+'static'e
+c
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(E
+%7"
+__arraySet*
+
+%6*
+'nusoap_base'*
+
+%3b
+`
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(
+%8"
+__arrayGet*
+
+
+$GLOBALS*
+'_transient'`
+^
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(E
+%9"
+__arraySet*
+
+%8*
+
+'static'*
+
+%6k
+i
+,
+ bWAPP/soap/class.nusoap_base.phpö ö(E
+%10"
+__arraySet*
+
+
+$GLOBALS*
+'_transient'*
+
+%8*
+2:
+$levelB
+nusoap_base

@@ -1,0 +1,13 @@
+
+nusoap_wsdlcache(
+bWAPP/soap/class.wsdlcache.php/
+ /("2*[
+2
+class.wsdlcache.php"?
+(
+bWAPP/soap/class.wsdlcache.php3 3(
+implicit return:
+
+$cache_dir:
+$cache_lifetimeB
+nusoap_wsdlcache

@@ -1,0 +1,30 @@
+
+"soap_transport_http::setsoapaction!
+bWAPP/soap/nusoap.phpˆ
+ ˆ("1*K
+2
+
+nusoap.php"8
+!
+bWAPP/soap/nusoap.phpŠ Š(
+implicit return*ð
+1!
+bWAPP/soap/nusoap.php‰ ‰(:X
+V
+!
+bWAPP/soap/nusoap.php‰! ‰(8
+%1"__concat*
+'"'*
+
+$soapaction*
+'"'ig
+!
+bWAPP/soap/nusoap.php‰ ‰(9
+%2*
+soap_transport_http*
+'SOAPAction'*
+
+%12	setheader*
+2:
+$soapactionB
+soap_transport_http

@@ -1,7 +1,7 @@
 organization=senenenriquemoronguerra-github
-projectKey=prueba_keke
+projectKey=SenenEnriqueMoronGuerra_Prueba-sonar-cloud
 serverUrl=https://sonarcloud.io
 serverVersion=7.8.0.24676
-dashboardUrl=https://sonarcloud.io/dashboard?id=prueba_keke
-ceTaskId=AWqzTmn6eCTcsUmsawp6
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWqzTmn6eCTcsUmsawp6
+dashboardUrl=https://sonarcloud.io/dashboard?id=SenenEnriqueMoronGuerra_Prueba-sonar-cloud
+ceTaskId=AWqzbScOcMoWyatDOtyi
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWqzbScOcMoWyatDOtyi

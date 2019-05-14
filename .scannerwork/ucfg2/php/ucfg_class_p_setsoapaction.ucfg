@@ -1,0 +1,29 @@
+
+"soap_transport_http::setsoapaction4
+(bWAPP/soap/class.soap_transport_http.phpž
+ ž("1*q
+2
+class.soap_transport_http.php"K
+4
+(bWAPP/soap/class.soap_transport_http.php   (
+implicit return*©
+14
+(bWAPP/soap/class.soap_transport_http.phpŸ Ÿ(:k
+i
+4
+(bWAPP/soap/class.soap_transport_http.phpŸ! Ÿ(8
+%1"__concat*
+'"'*
+
+$soapaction*
+'"'|z
+4
+(bWAPP/soap/class.soap_transport_http.phpŸ Ÿ(9
+%2*
+soap_transport_http*
+'SOAPAction'*
+
+%12	setheader*
+2:
+$soapactionB
+soap_transport_http

@@ -1,0 +1,43 @@
+
+nusoap_client::setcurloption+
+bWAPP/soap/class.soapclient.php¥
+ ¥("1*_
+2
+class.soapclient.php"B
++
+bWAPP/soap/class.soapclient.php© ©(
+implicit return*Ã
+1+
+bWAPP/soap/class.soapclient.php¦ ¦(7u
+s
++
+bWAPP/soap/class.soapclient.php¦ ¦(5
+%1"__concat*
+setCurlOption option=*
+
+, value=*
+	
+$optionWU
++
+bWAPP/soap/class.soapclient.php¦ ¦(6
+%2*
+nusoap_client*
+
+%12debug][
++
+bWAPP/soap/class.soapclient.php§ §(+
+%3*
+nusoap_client*
+
+
+$value2vardump][
++
+bWAPP/soap/class.soapclient.php§ §(,
+%4*
+nusoap_client*
+
+%32appenddebug*
+2:	
+$option:
+$valueB
+nusoap_client

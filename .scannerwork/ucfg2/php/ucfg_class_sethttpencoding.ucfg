@@ -1,0 +1,28 @@
+
+nusoap_client::sethttpencoding+
+bWAPP/soap/class.soapclient.phpş
+ ş("1*_
+2
+class.soapclient.php"B
++
+bWAPP/soap/class.soapclient.php (
+implicit return*ú
+1+
+bWAPP/soap/class.soapclient.phpÿ ÿ(,j
+h
++
+bWAPP/soap/class.soapclient.phpÿ ÿ(*
+%1"__concat*
+setHTTPEncoding(\"*
+\")*
+
+$encWU
++
+bWAPP/soap/class.soapclient.phpÿ ÿ(+
+%2*
+nusoap_client*
+
+%12debug*
+2:
+$encB
+nusoap_client

@@ -1,0 +1,76 @@
+
+nusoap_xmlschema(
+bWAPP/soap/class.xmlschema.php6
+ 6("1*Ê
+2(
+bWAPP/soap/class.xmlschema.phpC C(1f
+d
+(
+bWAPP/soap/class.xmlschema.phpC C(/
+%3"__concat*
+'initial schema file: '*
+	
+$schemaWU
+(
+bWAPP/soap/class.xmlschema.phpC C(0
+%4*
+nusoap_xmlschema*
+
+%32debugnl
+(
+bWAPP/soap/class.xmlschema.phpD D(&
+%5*
+nusoap_xmlschema*
+	
+$schema*
+
+'schema'2	parsefile*
+4
+5*◊
+4(
+bWAPP/soap/class.xmlschema.phpI I(+`
+^
+(
+bWAPP/soap/class.xmlschema.phpI I()
+%6"__concat*
+'initial xml file: '*
+
+$xmlWU
+(
+bWAPP/soap/class.xmlschema.phpI I(*
+%7*
+nusoap_xmlschema*
+
+%62debughf
+(
+bWAPP/soap/class.xmlschema.phpJ J( 
+%8*
+nusoap_xmlschema*
+
+$xml*	
+'xml'2	parsefile*
+5*[
+5
+class.xmlschema.php"?
+(
+bWAPP/soap/class.xmlschema.phpM M(
+implicit return*Æ
+1(
+bWAPP/soap/class.xmlschema.php7 7(b
+`
+(
+bWAPP/soap/class.xmlschema.php7 7(
+%1"nusoap_base::nusoap_base*
+nusoap_xmlschemaèå
+(
+bWAPP/soap/class.xmlschema.php8 8(I
+%2*
+nusoap_xmlschema*=;
+9'nusoap_xmlschema class instantiated, inside constructor'2debug*	
+2
+4
+5:	
+$schema:
+$xml:
+$namespacesB
+nusoap_xmlschema

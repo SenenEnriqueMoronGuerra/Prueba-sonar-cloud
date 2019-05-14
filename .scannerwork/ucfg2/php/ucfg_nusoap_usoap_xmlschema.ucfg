@@ -1,0 +1,77 @@
+
+nusoap_xmlschema!
+bWAPP/soap/nusoap.phpî
+ î("1*Ê
+2!
+bWAPP/soap/nusoap.phpû û(1_
+]
+!
+bWAPP/soap/nusoap.phpû û(/
+%3"__concat*
+'initial schema file: '*
+	
+$schemaPN
+!
+bWAPP/soap/nusoap.phpû û(0
+%4*
+nusoap_xmlschema*
+
+%32debugge
+!
+bWAPP/soap/nusoap.phpü ü(&
+%5*
+nusoap_xmlschema*
+	
+$schema*
+
+'schema'2	parsefile*
+4
+5*»
+4!
+bWAPP/soap/nusoap.php	 	(+Y
+W
+!
+bWAPP/soap/nusoap.php	 	()
+%6"__concat*
+'initial xml file: '*
+
+$xmlPN
+!
+bWAPP/soap/nusoap.php	 	(*
+%7*
+nusoap_xmlschema*
+
+%62debuga_
+!
+bWAPP/soap/nusoap.php‚	 ‚	( 
+%8*
+nusoap_xmlschema*
+
+$xml*	
+'xml'2	parsefile*
+5*K
+5
+
+nusoap.php"8
+!
+bWAPP/soap/nusoap.php…	 …	(
+implicit return*™
+1!
+bWAPP/soap/nusoap.phpï ï([
+Y
+!
+bWAPP/soap/nusoap.phpï ï(
+%1"nusoap_base::nusoap_base*
+nusoap_xmlschemaˆ…
+!
+bWAPP/soap/nusoap.phpğ ğ(I
+%2*
+nusoap_xmlschema*=;
+9'nusoap_xmlschema class instantiated, inside constructor'2debug*	
+2
+4
+5:	
+$schema:
+$xml:
+$namespacesB
+nusoap_xmlschema

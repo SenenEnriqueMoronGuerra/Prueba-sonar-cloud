@@ -1,0 +1,23 @@
+
+nusoap_fault)
+bWAPP/soap/class.soap_fault.php0
+ 0("1*]
+2
+class.soap_fault.php"@
+)
+bWAPP/soap/class.soap_fault.php6 6(
+implicit return*”
+1)
+bWAPP/soap/class.soap_fault.php1 1(_
+]
+)
+bWAPP/soap/class.soap_fault.php1 1(
+%1"nusoap_base::nusoap_base*
+nusoap_fault*
+2:
+
+$faultcode:
+$faultactor:
+$faultstring:
+$faultdetailB
+nusoap_fault
